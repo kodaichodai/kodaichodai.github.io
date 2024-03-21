@@ -374,8 +374,8 @@ pre code.hljs {
 .site-footer {
 	$link-color: $white;
 	padding: 1em 1em 2em 1em;
-	background-color: #B1D5AF;
-	color: #B1D5AF;
+	background-color: $highlight-color;
+	color: $highlight-color;
 	a {
 	  color: $link-color;
 	  &:active,
